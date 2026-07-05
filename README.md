@@ -32,6 +32,7 @@ DSA programs in Java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akhil-moger05/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/akhil-moger05/dsa-java/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@ DSA programs in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/akhil-moger05/dsa-java/tree/main/0014-longest-common-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
