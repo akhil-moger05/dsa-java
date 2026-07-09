@@ -38,6 +38,7 @@ DSA programs in Java
 | [0066-plus-one](https://github.com/akhil-moger05/dsa-java/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/akhil-moger05/dsa-java/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/akhil-moger05/dsa-java/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ DSA programs in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/akhil-moger05/dsa-java/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/akhil-moger05/dsa-java/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
