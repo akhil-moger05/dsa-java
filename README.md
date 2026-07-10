@@ -42,11 +42,13 @@ DSA programs in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhil-moger05/dsa-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/akhil-moger05/dsa-java/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/akhil-moger05/dsa-java/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/akhil-moger05/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akhil-moger05/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/akhil-moger05/dsa-java/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/akhil-moger05/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ DSA programs in Java
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/akhil-moger05/dsa-java/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/akhil-moger05/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
