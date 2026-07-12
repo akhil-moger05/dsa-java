@@ -47,6 +47,7 @@ DSA programs in Java
 | [0268-missing-number](https://github.com/akhil-moger05/dsa-java/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/akhil-moger05/dsa-java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-moger05/dsa-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0724-find-pivot-index](https://github.com/akhil-moger05/dsa-java/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +115,8 @@ DSA programs in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akhil-moger05/dsa-java/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/akhil-moger05/dsa-java/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
