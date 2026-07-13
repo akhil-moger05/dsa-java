@@ -49,6 +49,7 @@ DSA programs in Java
 | [0349-intersection-of-two-arrays](https://github.com/akhil-moger05/dsa-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0724-find-pivot-index](https://github.com/akhil-moger05/dsa-java/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akhil-moger05/dsa-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ DSA programs in Java
 | [0088-merge-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/akhil-moger05/dsa-java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-moger05/dsa-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ DSA programs in Java
 | [0268-missing-number](https://github.com/akhil-moger05/dsa-java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-moger05/dsa-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akhil-moger05/dsa-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
