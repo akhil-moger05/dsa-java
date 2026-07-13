@@ -48,6 +48,7 @@ DSA programs in Java
 | [0283-move-zeroes](https://github.com/akhil-moger05/dsa-java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-moger05/dsa-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0724-find-pivot-index](https://github.com/akhil-moger05/dsa-java/tree/main/0724-find-pivot-index/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/akhil-moger05/dsa-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ DSA programs in Java
 | [0217-contains-duplicate](https://github.com/akhil-moger05/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/akhil-moger05/dsa-java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-moger05/dsa-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/akhil-moger05/dsa-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
