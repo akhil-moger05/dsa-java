@@ -50,6 +50,7 @@ DSA programs in Java
 | [0724-find-pivot-index](https://github.com/akhil-moger05/dsa-java/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akhil-moger05/dsa-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/akhil-moger05/dsa-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,5 @@ DSA programs in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/akhil-moger05/dsa-java/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/akhil-moger05/dsa-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
