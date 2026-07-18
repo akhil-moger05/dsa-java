@@ -34,6 +34,7 @@ DSA programs in Java
 | [0011-container-with-most-water](https://github.com/akhil-moger05/dsa-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/akhil-moger05/dsa-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/akhil-moger05/dsa-java/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/akhil-moger05/dsa-java/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/akhil-moger05/dsa-java/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/akhil-moger05/dsa-java/tree/main/0035-search-insert-position/) | Easy |
@@ -75,6 +76,7 @@ DSA programs in Java
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akhil-moger05/dsa-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/akhil-moger05/dsa-java/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/akhil-moger05/dsa-java/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/akhil-moger05/dsa-java/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0088-merge-sorted-array/) | Easy |
@@ -102,6 +104,7 @@ DSA programs in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/akhil-moger05/dsa-java/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/akhil-moger05/dsa-java/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/akhil-moger05/dsa-java/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/akhil-moger05/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
