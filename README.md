@@ -39,6 +39,7 @@ DSA programs in Java
 | [0027-remove-element](https://github.com/akhil-moger05/dsa-java/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/akhil-moger05/dsa-java/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/akhil-moger05/dsa-java/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/akhil-moger05/dsa-java/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/akhil-moger05/dsa-java/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/akhil-moger05/dsa-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/akhil-moger05/dsa-java/tree/main/0118-pascals-triangle/) | Easy |
@@ -140,4 +141,8 @@ DSA programs in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akhil-moger05/dsa-java/tree/main/0011-container-with-most-water/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/akhil-moger05/dsa-java/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
